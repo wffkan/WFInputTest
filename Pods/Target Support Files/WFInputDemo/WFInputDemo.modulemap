@@ -1,0 +1,6 @@
+framework module WFInputDemo {
+  umbrella header "WFInputDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

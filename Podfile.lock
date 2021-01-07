@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (5.4.1)
+  - HandyJSON (5.0.3-beta)
+  - SwiftyJSON (5.0.0)
+  - WFInputDemo (1.0.1):
+    - Alamofire
+    - HandyJSON (~> 5.0.3-beta)
+    - SwiftyJSON
+
+DEPENDENCIES:
+  - WFInputDemo
+
+SPEC REPOS:
+  http://earthonline.com:8081/wangfangfang/LiveEarthSpecs.git:
+    - WFInputDemo
+  https://github.com/CocoaPods/Specs:
+    - Alamofire
+    - HandyJSON
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  HandyJSON: 88e8ea5f66ab65c3b8768499a1935d0509c460d4
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WFInputDemo: 0aab79f4bb20eaff01130d40699b506aaf801459
+
+PODFILE CHECKSUM: 3e06cae8d2d41d58375ad2fe31f7afc4b45c2380
+
+COCOAPODS: 1.10.0
